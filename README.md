@@ -1,5 +1,6 @@
 # Chandrayaan-Quiz
-A Quiz related to Chandrayaan-3 Mission
+A Quiz related to Chandrayaan-3 Mission.
+
 This is a CLI program
 
 ************INSTRUCTIONS************
