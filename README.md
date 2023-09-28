@@ -1,7 +1,8 @@
 # Chandrayaan-Quiz
 A Quiz related to Chandrayaan-3 Mission
 This is a CLI program
-*************INSTRUCTIONS**************
+
+************INSTRUCTIONS************
 1. The quiz consists of 10 questions
 2. The quiz is divided into 2 sections: first 5 questions form the level 1 and next 5 forms the level 2
 3.  For each right answer in level 1 the participant's score will be updated by 1000 and in level 2 it will be updated by 2000
