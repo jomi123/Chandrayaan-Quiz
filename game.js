@@ -1,4 +1,3 @@
-// import qnAns from "./game_objects.js";
 var chalk = require("chalk");
 var readline = require("readline-sync");
 var userName = readline.question("Please Enter your name: ");
